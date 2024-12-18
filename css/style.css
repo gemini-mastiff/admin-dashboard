@@ -26,8 +26,10 @@ body{
     width: 100%;
     display: grid;
     grid-template-columns: 1fr 4fr;
-    grid-template-rows: 1fr 5fr;
+    grid-template-rows: 2fr 5fr;
 }
+
+/* SIDEBAR */
 
 nav{
     grid-row: 1/3;
@@ -36,8 +38,15 @@ nav{
     gap: 40px;
 }
 
+.logo{
+    display: flex;
+    gap: 8px;
+}
+
 .page-links,
 .settings-links{
     display: grid;
     grid-template-columns: 1fr 1fr; /* Change this when I have the button sizes */
 }
+
+/* HEADER */
