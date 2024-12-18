@@ -50,3 +50,19 @@ nav{
 }
 
 /* HEADER */
+
+header{
+    display: grid;
+    grid-template-columns: 6fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 2fr;
+}
+
+.profile{
+    grid-column: 3/5;
+}
+
+.content-btns{
+    grid-column: 2/5;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
