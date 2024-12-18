@@ -71,7 +71,10 @@ header{
 
 main{
     display: grid;
-    grid-template-rows: 1fr 2fr 1 fr 2fr;
+    grid-template-rows: 1.5rem 1fr 1.5rem 1fr;
     grid-template-columns: 4fr 1fr;
 }
 
+.projects{
+    grid-row: 2/5;
+}
