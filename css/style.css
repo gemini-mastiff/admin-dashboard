@@ -53,6 +53,7 @@ nav{
 /* HEADER */
 
 header{
+    background-color: lightgoldenrodyellow;
     display: grid;
     grid-template-columns: 6fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 2fr;
@@ -91,9 +92,11 @@ main{
 }
 
 .announcements{
+    background-color: lightcoral;
     display: grid;
 }
 
 .trending{
+    background-color: lightsalmon;
     display: grid;
 }
