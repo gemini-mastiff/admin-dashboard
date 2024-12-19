@@ -88,6 +88,8 @@ header{
     grid-column: 2/5;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    gap: 20px;
 }
 
 /* MAIN */
