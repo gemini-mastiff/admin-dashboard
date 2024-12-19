@@ -44,10 +44,14 @@ nav{
     gap: 8px;
 }
 
+nav img{
+    height: 30px;
+}
+
 .page-links,
 .settings-links{
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Change this when I have the button sizes */
+    grid-template-columns: 30px 1fr; /* Change this when I have the button sizes */
 }
 
 /* HEADER */
