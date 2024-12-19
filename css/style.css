@@ -115,8 +115,9 @@ header{
     flex: 1;
     min-width: 27ch;
     max-width: 650px;
-    height: 1.2rem;
+    height: 1.5rem;
     font: inherit;
+    font-size: 1.2rem;
     background-color: var(--BG-COLOUR);
     border: none;
     border-radius: 10px;
