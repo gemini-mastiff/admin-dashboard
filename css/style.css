@@ -109,13 +109,14 @@ header{
 
 .searchbar input{
     flex: 1;
+    min-width: 27ch;
+    max-width: 650px;
     height: 1.2rem;
     font: inherit;
     background-color: #e5e7eb;
     border: none;
     border-radius: 10px;
     padding-left: 10px;
-
 }
 
 .profile{
