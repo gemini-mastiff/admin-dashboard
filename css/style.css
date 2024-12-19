@@ -35,7 +35,7 @@ body{
     width: 100%;
     display: grid;
     grid-template-columns: 1fr 5fr;
-    grid-template-rows: 2fr 5fr;
+    grid-template-rows: 1fr 5fr;
 }
 
 img{
@@ -146,10 +146,11 @@ header{
 .content-btns{
     grid-column: 2/5;
     display: flex;
-    justify-content: space-between;
+    justify-content: end;
     align-items: center;
     flex-wrap: wrap;
     gap: 20px;
+    padding: 20px 0px;
 }
 
 button{
