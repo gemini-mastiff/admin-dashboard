@@ -136,6 +136,7 @@ header{
 .command-panel{
     display: flex;
     align-items: center;
+    gap: 10px;
 }
 
 .command-panel>div>p:last-child{
