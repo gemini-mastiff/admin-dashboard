@@ -79,6 +79,10 @@ nav img{
     height: 50px;
 }
 
+.logo h1{
+    font-size: 1.6rem;
+}
+
 .page-links,
 .settings-links{
     display: grid;
