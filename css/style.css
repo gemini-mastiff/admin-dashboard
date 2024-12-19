@@ -146,7 +146,9 @@ header{
 .content-btns{
     grid-column: 2/5;
     display: flex;
+    justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
@@ -155,9 +157,9 @@ button{
     color: var(--MAIN-COLOUR);
     font: inherit;
     border: none;
-    flex: 1;
+    border-radius: 1.5rem;
     height: 3rem;
-    width: 6rem;
+    min-width: 6rem;
 }
 
 /* MAIN */
