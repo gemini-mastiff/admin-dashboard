@@ -102,6 +102,20 @@ header{
     padding: 20px;
 }
 
+.searchbar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.searchbar input{
+    flex: 1;
+    height: 1.2rem;
+    background-color: #e5e7eb;
+    border: none;
+    border-radius: 10px;
+}
+
 .profile{
     grid-column: 3/5;
     display: flex;
