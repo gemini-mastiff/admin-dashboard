@@ -88,8 +88,7 @@ nav img{
     display: grid;
     grid-template-columns: 30px 1fr;
     align-items: center;
-    row-gap: 10px;
-    column-gap: 15px;
+    gap: 10px;
 }
 
 /* HEADER */
