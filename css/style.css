@@ -46,6 +46,11 @@ img[alt="Profile Picture"]{
     object-fit: cover;
 }
 
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
 /* SIDEBAR */
 
 nav{
