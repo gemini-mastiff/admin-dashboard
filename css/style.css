@@ -29,6 +29,10 @@ body{
     grid-template-rows: 2fr 5fr;
 }
 
+img{
+    height: 30px;
+}
+
 img[alt="Profile Picture"]{
     border-radius: 50%;
 }
