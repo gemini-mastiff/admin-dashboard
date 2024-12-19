@@ -110,9 +110,12 @@ header{
 .searchbar input{
     flex: 1;
     height: 1.2rem;
+    font: inherit;
     background-color: #e5e7eb;
     border: none;
     border-radius: 10px;
+    padding-left: 10px;
+
 }
 
 .profile{
