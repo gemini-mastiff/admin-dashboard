@@ -29,6 +29,10 @@ body{
     grid-template-rows: 2fr 5fr;
 }
 
+img[alt="Profile Picture"]{
+    border-radius: 50%;
+}
+
 /* SIDEBAR */
 
 nav{
@@ -38,10 +42,6 @@ nav{
     flex-direction: column;
     gap: 40px;
     padding: 10px;
-}
-
-nav img{
-    height: 30px;
 }
 
 .logo{
