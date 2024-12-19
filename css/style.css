@@ -62,7 +62,7 @@ nav{
     display: flex;
     flex-direction: column;
     gap: 40px;
-    padding: 10px;
+    padding: 20px;
 }
 
 nav img{
@@ -88,7 +88,8 @@ nav img{
     display: grid;
     grid-template-columns: 30px 1fr;
     align-items: center;
-    gap: 5px;
+    row-gap: 10px;
+    column-gap: 15px;
 }
 
 /* HEADER */
