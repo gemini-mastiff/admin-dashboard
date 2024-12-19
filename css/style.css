@@ -99,6 +99,7 @@ nav img{
 
 header{
     background-color: lightgoldenrodyellow;
+    font-weight: 600;
     display: grid;
     grid-template-columns: 6fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 2fr;
@@ -135,6 +136,10 @@ header{
 .command-panel{
     display: flex;
     align-items: center;
+}
+
+.command-panel>div>p:last-child{
+    font-size: 1.5rem;
 }
 
 .content-btns{
