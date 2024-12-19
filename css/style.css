@@ -22,6 +22,9 @@ time, mark, audio, video {
 }
 
 html{
+    --MAIN-COLOR: #fafaf9;
+    --BG-COLOR: #e5e7eb;
+    --ACCENT-COLOR: #0ea5e9; 
     font-family: 'Roboto Flex', sans-serif;
     font-size: 1rem;
 }
