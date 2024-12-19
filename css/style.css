@@ -24,7 +24,8 @@ time, mark, audio, video {
 html{
     --MAIN-COLOUR: #fafaf9;
     --BG-COLOUR: #e5e7eb;
-    --ACCENT-COLOUR: #0ea5e9; 
+    --ACCENT-COLOUR: #0ea5e9;
+    --CARD-ACCENT: #facc15;
     font-family: 'Roboto Flex', sans-serif;
     font-size: 1rem;
 }
