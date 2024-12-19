@@ -89,3 +89,7 @@ main{
     background-color: white;
     height: 250px;
 }
+
+.announcements{
+    display: grid;
+}
