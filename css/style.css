@@ -145,8 +145,7 @@ header{
 
 .content-btns{
     grid-column: 2/5;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    display: flex;
     align-items: center;
     gap: 20px;
 }
@@ -156,6 +155,7 @@ button{
     color: var(--MAIN-COLOUR);
     font: inherit;
     border: none;
+    flex: 1;
     height: 3rem;
     width: 6rem;
 }
