@@ -93,3 +93,7 @@ main{
 .announcements{
     display: grid;
 }
+
+.trending{
+    display: grid;
+}
