@@ -64,6 +64,10 @@ nav{
     padding: 10px;
 }
 
+nav img{
+    filter: invert(96%) sepia(88%) saturate(165%) hue-rotate(13deg) brightness(118%) contrast(96%);
+}
+
 .logo{
     display: flex;
     gap: 8px;
