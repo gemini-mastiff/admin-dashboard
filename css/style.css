@@ -151,6 +151,15 @@ header{
     gap: 20px;
 }
 
+button{
+    background-color: var(--ACCENT-COLOUR);
+    color: var(--MAIN-COLOUR);
+    font: inherit;
+    border: none;
+    height: 3rem;
+    width: 6rem;
+}
+
 /* MAIN */
 
 main{
