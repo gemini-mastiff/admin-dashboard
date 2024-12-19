@@ -135,8 +135,14 @@ header{
 
 .command-panel{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     gap: 10px;
+}
+
+.command-panel img{
+    height: 80px;
+    width: 80px;
 }
 
 .command-panel>div>p:last-child{
