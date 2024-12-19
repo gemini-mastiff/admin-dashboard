@@ -39,19 +39,24 @@ nav{
     gap: 40px;
 }
 
+nav img{
+    height: 30px;
+}
+
 .logo{
     display: flex;
     gap: 8px;
 }
 
-nav img{
-    height: 30px;
+.logo img{
+    height: 50px;
 }
 
 .page-links,
 .settings-links{
     display: grid;
-    grid-template-columns: 30px 1fr; /* Change this when I have the button sizes */
+    grid-template-columns: 30px 1fr;
+    gap: 5px;
 }
 
 /* HEADER */
