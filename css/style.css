@@ -75,6 +75,7 @@ header{
     display: grid;
     grid-template-columns: 6fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 2fr;
+    padding: 20px;
 }
 
 .profile{
