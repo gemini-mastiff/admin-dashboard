@@ -85,6 +85,11 @@ header{
     gap: 10px;
 }
 
+.command-panel{
+    display: flex;
+    align-items: center;
+}
+
 .content-btns{
     grid-column: 2/5;
     display: grid;
