@@ -226,6 +226,7 @@ main>h2{
 
 .announcements{
     background-color: lightcoral;
+    border-radius: 10px;
     display: grid;
     padding: 20px;
 }
@@ -237,6 +238,7 @@ main>h2{
 
 .trending{
     background-color: lightsalmon;
+    border-radius: 10px;
     display: grid;
     padding: 20px;
 }
