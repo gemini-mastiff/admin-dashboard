@@ -244,6 +244,7 @@ main>h2{
 
 .announce-card{
     flex: 1;
+    padding: 5px;
 }
 
 .announce-card h4{
