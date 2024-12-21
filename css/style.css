@@ -279,6 +279,7 @@ main>h2{
 }
 
 .announce-card a:last-child{
+    color: var(--ACCENT-COLOUR);
     position: absolute;
     bottom: 0px;
     right: 5px;
