@@ -177,6 +177,7 @@ main{
     display: grid;
     grid-template-rows: 1.5rem 1fr 1.5rem 1fr;
     grid-template-columns: 4fr 1fr;
+    padding: 20px;
 }
 
 .projects{
@@ -184,19 +185,23 @@ main{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
+    padding: 20px;
 }
 
 .card{
     background-color: white;
     height: 250px;
+    padding: 20px;
 }
 
 .announcements{
     background-color: lightcoral;
     display: grid;
+    padding: 20px;
 }
 
 .trending{
     background-color: lightsalmon;
     display: grid;
+    padding: 20px;
 }
