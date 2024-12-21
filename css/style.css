@@ -267,6 +267,10 @@ main>h2{
     font-weight: bold;
 }
 
+.announce-card p{
+    margin-bottom: 1.5rem;
+}
+
 .announce-card a:last-child{
     position: absolute;
     bottom: 0px;
