@@ -97,6 +97,7 @@ nav img{
 /* HEADER */
 
 header{
+    z-index: 1;
     background-color: var(--MAIN-COLOUR);
     font-weight: 600;
     display: grid;
@@ -104,6 +105,7 @@ header{
     grid-template-rows: 1fr 2fr;
     padding: 20px;
     padding-bottom: 0;
+    box-shadow: 0px 3px 5px 0px #BCBCBC;
 }
 
 .searchbar{
