@@ -229,8 +229,13 @@ main>h2{
 .announcements{
     background-color: lightcoral;
     border-radius: 10px;
-    display: grid;
+    display: flex;
+    flex-direction: column;
     padding: 20px;
+}
+
+.announce-card{
+    flex: 1;
 }
 
 .announcements hr{
