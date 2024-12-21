@@ -28,6 +28,7 @@ html{
     --CARD-ACCENT: #facc15;
     font-family: 'Roboto Flex', sans-serif;
     font-size: 1rem;
+    line-height: 1.5;
 }
 
 body{
