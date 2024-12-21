@@ -196,6 +196,16 @@ main{
     padding-left: 35px;
     display: flex;
     flex-direction: column;
+    gap: 10px;
+}
+
+.card h3{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.card p{
+    color: grey;
 }
 
 .card div{
