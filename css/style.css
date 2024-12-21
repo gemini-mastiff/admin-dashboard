@@ -152,8 +152,10 @@ header{
 
 .content-btns{
     grid-column: 2/5;
+    max-width: 360px;
+    justify-self: end;
     display: flex;
-    justify-content: end;
+    justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
     gap: 20px;
