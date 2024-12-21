@@ -229,6 +229,7 @@ main>h2{
     border-radius: 10px;
     display: flex;
     flex-direction: column;
+    gap: 5px;
     padding: 20px;
 }
 
@@ -239,6 +240,7 @@ main>h2{
 .announce-card h4{
     font-size: 1.2rem;
     font-weight: bold;
+    margin-bottom: 5px;
 }
 
 .announcements hr{
