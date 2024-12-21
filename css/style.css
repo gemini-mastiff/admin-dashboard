@@ -259,3 +259,7 @@ main>h2{
     align-items: center;
     gap: 10px;
 }
+
+.trending-card>div p{
+    padding-top: 2px;
+}
