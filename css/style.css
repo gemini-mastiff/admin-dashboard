@@ -231,6 +231,7 @@ main>h2{
 }
 
 .announcements hr{
+    color: var(--BG-COLOUR);
     width: 100%;
 }
 
