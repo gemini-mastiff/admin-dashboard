@@ -192,6 +192,7 @@ main{
     background-color: white;
     height: 250px;
     padding: 20px;
+    padding-left: 35px;
     display: flex;
     flex-direction: column;
 }
