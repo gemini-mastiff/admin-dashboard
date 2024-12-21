@@ -194,6 +194,7 @@ main>h2{
 .projects{
     grid-row: 2/5;
     display: grid;
+    align-items: stretch;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
 }
@@ -201,7 +202,7 @@ main>h2{
 .card{
     background-color: white;
     position: relative;
-    height: 250px;
+    min-height: 250px;
     padding: 20px;
     padding-left: 35px;
     display: flex;
