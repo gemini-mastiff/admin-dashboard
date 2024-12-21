@@ -282,10 +282,12 @@ main>h2{
 }
 
 .trending{
+    height: 400px;
     background-color: var(--MAIN-COLOUR);
     border-radius: 10px;
     display: grid;
     align-items: center;
+    gap: 20px;
     padding: 20px;
 }
 
