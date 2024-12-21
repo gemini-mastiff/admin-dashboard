@@ -197,6 +197,7 @@ main{
     display: flex;
     flex-direction: column;
     gap: 10px;
+    box-shadow: inset 8px 0px 0px 0px var(--CARD-ACCENT);
 }
 
 .card h3{
