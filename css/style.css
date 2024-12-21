@@ -190,6 +190,7 @@ main{
 
 .card{
     background-color: white;
+    position: relative;
     height: 250px;
     padding: 20px;
     padding-left: 35px;
