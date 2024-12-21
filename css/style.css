@@ -97,7 +97,7 @@ nav img{
 /* HEADER */
 
 header{
-    background-color: lightgoldenrodyellow;
+    background-color: var(--MAIN-COLOUR);
     font-weight: 600;
     display: grid;
     grid-template-columns: 6fr 1fr 1fr 1fr;
@@ -198,7 +198,7 @@ main>h2{
 }
 
 .card{
-    background-color: white;
+    background-color: var(--MAIN-COLOUR);
     position: relative;
     min-height: 250px;
     padding: 20px;
@@ -225,7 +225,7 @@ main>h2{
 }
 
 .announcements{
-    background-color: lightcoral;
+    background-color: var(--MAIN-COLOUR);
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -247,7 +247,7 @@ main>h2{
 }
 
 .trending{
-    background-color: lightsalmon;
+    background-color: var(--MAIN-COLOUR);
     border-radius: 10px;
     display: grid;
     padding: 20px;
