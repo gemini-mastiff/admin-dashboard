@@ -189,7 +189,7 @@ main{
     display: grid;
     height: min-content;
     grid-template-rows: 1.5rem min-content 1.5rem auto;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 3fr 1fr;
     gap: 20px;
     padding: 20px;
 }
