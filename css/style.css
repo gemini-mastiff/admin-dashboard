@@ -207,7 +207,7 @@ main>h2{
     grid-row: 2/5;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    grid-auto-rows: max-content;
+    grid-auto-rows: 1fr;
     gap: 20px;
 }
 
