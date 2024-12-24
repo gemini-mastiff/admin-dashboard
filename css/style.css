@@ -292,7 +292,7 @@ main>h2{
 }
 
 .trending{
-    height: 475px;
+    height: min-content;
     background-color: var(--MAIN-COLOUR);
     border-radius: 10px;
     display: grid;
